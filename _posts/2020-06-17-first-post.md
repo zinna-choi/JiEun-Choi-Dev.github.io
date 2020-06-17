@@ -28,7 +28,6 @@ function solution(n)
 
     return answer;
 }
-
 ```
 
 ## 참고
@@ -41,13 +40,12 @@ function solution(n)
 
 ```
 parseInt(string, radix);
-
 ```
 
-_string_
+**string**
 분석할 값. 만약 string이 문자열이 아니면 문자열로 변환(ToString 추상 연산을 사용)합니다. 문자열의 선행 공백은 무시합니다.
 
-_radix_
+**radix**
 string이 표현하는 정수를 나타내는 2와 36 사이의 진수(수의 진법 체계에 기준이 되는 값).
 
-- 참고사이트 <https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/parseInt>
+- [참고사이트](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/parseInt)
