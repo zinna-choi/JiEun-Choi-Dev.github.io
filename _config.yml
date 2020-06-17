@@ -16,7 +16,7 @@ minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale: "en-US"
-title: ""
+title: "PLATFORMER"
 title_separator: "-"
 subtitle: # site tagline that appears below site title in masthead
 name: "JiEun-Choi-Dev"
@@ -94,9 +94,7 @@ analytics:
 author:
   name: "Jieun-Choi-Dev"
   avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio: "I'm not just A Developer.
-   
-  I'm A **PLATFORMER**"
+  bio: not A Developer but **PLATFORMER**"
   location: "Somewhere"
   email:
   links:
@@ -268,15 +266,14 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments:  true
+      comments: true
       share: true
       related: true
 
- # _pages
+  # _pages
   - scope:
       path: "_pages"
       type: pages
     values:
       layout: single
       author_profile: true
-  
