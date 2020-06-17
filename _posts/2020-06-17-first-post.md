@@ -30,7 +30,7 @@ function solution(n)
 }
 ```
 
-## 참고
+## POINT
 
 #### parseInt()
 
@@ -48,4 +48,4 @@ parseInt(string, radix);
 **radix**
 string이 표현하는 정수를 나타내는 2와 36 사이의 진수(수의 진법 체계에 기준이 되는 값).
 
-- [참고사이트](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/parseInt)
+[참고사이트](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/parseInt)
