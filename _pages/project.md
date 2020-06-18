@@ -7,5 +7,5 @@ toc: true
 tags: [Project]
 layout: category
 author_profile: true
-taxonomy: project
+taxonomy: Project
 ---

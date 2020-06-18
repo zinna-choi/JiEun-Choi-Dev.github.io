@@ -7,5 +7,5 @@ toc: true
 tags: [Study]
 layout: category
 author_profile: true
-taxonomy: study
+taxonomy: Study
 ---
