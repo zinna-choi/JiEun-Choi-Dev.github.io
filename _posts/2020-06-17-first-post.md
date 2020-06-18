@@ -3,7 +3,7 @@ title: "[프로그래머스/javascript] 1. 자릿수 더하기"
 date: 2020-06-17 08:26:28 -0400
 
 categories:
-  - Study
+  - study
 tags:
   - 프로그래머스
   - javascript
