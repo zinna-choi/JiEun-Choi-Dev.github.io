@@ -7,6 +7,7 @@ categories:
 tags:
   - 프로그래머스
   - javascript
+  - parseInt
 ---
 
 ## 문제 설명
@@ -20,7 +21,7 @@ N의 범위 : 100,000,000 이하의
 ## 문제 풀이
 
 ```
-function solution(n)
+function solution()
 {
     var answer = 0;
     var number = String(n);
