@@ -1,5 +1,5 @@
 ---
-permalink: /categories/Project/
+permalink: /categories/project/
 title: "Project"
 excerpt: "project.md"
 last_modified_at: 2020-06-17
